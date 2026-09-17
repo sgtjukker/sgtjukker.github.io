@@ -29,7 +29,7 @@ export const profile: Profile = {
   location: 'Sweden',
   summary: 'A practical, people-focused professional who enjoys turning ideas into clear digital experiences and useful results.',
   linkedinUrl: 'https://www.linkedin.com/in/joakim-m%C3%A5nsson-%F0%9F%92%BB%F0%9F%A5%B7-0186a957/',
-  cvUrl: '/CV_260618_SE_Swedish.pdf',
+  cvUrl: `${import.meta.env.BASE_URL}CV_260618_SE_Swedish.pdf`,
   skills: ['Communication', 'Problem solving', 'Digital tools', 'Project work', 'Teamwork', 'Adaptability'],
   experience: [
     {
