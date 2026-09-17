@@ -33,4 +33,3 @@ Preferred workflow:
 
 1. Architect agent analyzes the task and creates a plan.
 2. Developer agent implements the plan.
-3. Tester agent verifies the implementation and reports failures.
